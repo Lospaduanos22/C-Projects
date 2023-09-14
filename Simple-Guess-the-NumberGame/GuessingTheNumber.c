@@ -40,7 +40,7 @@
 		printf("Guesses: Depending on the level you have a limited number of guesses to find the secret number.\n");
 		printf("Feedback: After each guess, we'll provide feedback:\n\t\"Higher\" if your guess is too low.\n\t\"Lower\" if your guess is too high.\n\t\"Correct\" if you guess the secret number!");
 		printf("\nWinning: You win by guessing the secret number within your allocated guesses.\n");
-		printf("Losing: If you use up all your guesses without finding the number, don't worry—you can always try again!\n");
+		printf("Losing: If you use up all your guesses without finding the number, don't worryâ€”you can always try again!\n");
 		
 		printf("\nPress any key to Continue: ");
 		scanf(" %c", &opt);
@@ -119,7 +119,6 @@
 		
 
 		printf("WELCOME TO HARD MODE!!\nHAHAHAHA TAPANG\nMAXIMUM OF 10 GUESSES ONLE!!");
-		printf("The answer is: %d\n", answer);
 		do
 		{
 			do{
