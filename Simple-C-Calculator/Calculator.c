@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-
+//KATIIONLE
 	int addNum();
 	int subNum();
 	int mltNum();
