@@ -1,11 +1,13 @@
 #include<stdio.h>
-#include<math.h>	
+#include<math.h>
+
 	int addNum();
 	int subNum();
 	int mltNum();
 	int divNum();
 	int sqrNum();
 	int sqrtNum();
+	
 	int main(){
 		int choice;
 		char retry;
